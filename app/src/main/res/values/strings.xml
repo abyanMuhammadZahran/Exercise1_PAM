@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise1_PAM</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Signin</string>
+
+    <!--    Info admin-->
+
+</resources>
